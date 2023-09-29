@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middlewares", "Middlewares.csproj", "{D07ED75F-7BA0-44E8-A1FF-9CE08B403CB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Middlewares", "src\Common.Middlewares.csproj", "{CACA8D0D-910D-4B2C-A385-B65CA4C23AAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D07ED75F-7BA0-44E8-A1FF-9CE08B403CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D07ED75F-7BA0-44E8-A1FF-9CE08B403CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D07ED75F-7BA0-44E8-A1FF-9CE08B403CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D07ED75F-7BA0-44E8-A1FF-9CE08B403CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACA8D0D-910D-4B2C-A385-B65CA4C23AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACA8D0D-910D-4B2C-A385-B65CA4C23AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACA8D0D-910D-4B2C-A385-B65CA4C23AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACA8D0D-910D-4B2C-A385-B65CA4C23AAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
