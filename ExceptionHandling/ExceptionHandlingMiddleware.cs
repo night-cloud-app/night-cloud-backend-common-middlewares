@@ -1,7 +1,7 @@
 ﻿using System.Net;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
-using Middlewares.ExceptionHandling.Exceptions;
+using NightCloud.Common.Middlewares.ExceptionHandling.Exceptions;
 
 namespace NightCloud.Common.Middlewares.ExceptionHandling;
 
