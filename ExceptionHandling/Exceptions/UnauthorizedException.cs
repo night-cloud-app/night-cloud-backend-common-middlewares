@@ -1,4 +1,4 @@
-﻿namespace Middlewares.ExceptionHandling.Exceptions;
+﻿namespace NightCloud.Common.Middlewares.ExceptionHandling.Exceptions;
 
 public class UnauthorizedException : Exception
 {

@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Middlewares.Authentication;
+namespace NightCloud.Common.Middlewares.Authentication;
 
 public class JwtAuthenticationMiddleware 
 {
